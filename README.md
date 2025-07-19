@@ -61,8 +61,8 @@ The pre-trained ML model (mental_health_model.pkl) processes the data and genera
 
 Predictions and relevant suggestions are displayed back on the Streamlit interface.
 
-![image alt]()
-![image alt]()
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/unlikely%20prediction.png?raw=true)
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/Likely%20prediction.png?raw=true)
 
 Dataset Utilization:
 
@@ -98,7 +98,7 @@ The model provides real-time mental health predictions.
 
 Outputs are displayed along with recommendations for improving mental well-being.
 ![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/HeartRate%20%20with%20Recomendations.png)
-![image alt]()
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/Recomedations.png?raw=true)
 
 ## Future Enhancements
 Integration of Reinforcement Learning for continuous improvement (dynamic suggestions).
