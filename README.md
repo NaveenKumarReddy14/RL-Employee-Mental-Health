@@ -43,7 +43,7 @@ Lightweight and easy-to-use web app.
 This project is a machine learning-based mental health prediction system that analyzes survey data to predict a user’s mental health condition. It uses a Streamlit web interface for user interaction and provides actionable suggestions based on the prediction.
 
 Below is the step-by-step flow of the system:
-![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/User%20input.png?raw=true)
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/5e9a95bcc5d9c65fbf0f57c8a31338996408912b/Output_Visuals/User%20input.png)
 
 User Input:
 
