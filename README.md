@@ -38,7 +38,7 @@ Lightweight and easy-to-use web app.
 ## Project Workflow
 
  # Mental Health Prediction System
-![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/Flowchat.png?raw=true)
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/57c843574ae4eb83b9901b02ddf4cd68f3ed890f/Output_Visuals/Flowchat.png)
 
 This project is a machine learning-based mental health prediction system that analyzes survey data to predict a user’s mental health condition. It uses a Streamlit web interface for user interaction and provides actionable suggestions based on the prediction.
 
@@ -97,7 +97,7 @@ Click the Predict button to get your mental health status and suggestions.
 The model provides real-time mental health predictions.
 
 Outputs are displayed along with recommendations for improving mental well-being.
-![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/HeartRate%20%20with%20Recomendations.png)
+![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/57c843574ae4eb83b9901b02ddf4cd68f3ed890f/Output_Visuals/HeartRate%20%20with%20Recomendations.png)
 ![image alt](https://github.com/NaveenKumarReddy14/RL-Employee-Mental-Health/blob/main/Recomedations.png?raw=true)
 
 ## Future Enhancements
